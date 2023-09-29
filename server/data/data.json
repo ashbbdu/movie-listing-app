@@ -608,7 +608,7 @@
     "Response": "True"
   },
   {
-    "id" : "20",
+    "id" : 20,
     "Title": "The Wolf of Wall Street",
     "Year": "2013",
     "Rated": "R",
