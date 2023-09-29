@@ -12,7 +12,6 @@ module.exports.movieController = (req , res) => {
            )
      } 
     } catch (error) {
-        console.log(error , "errr")
       return  res.status(404).json({
             success : false,
             message : "Unable to fetch movies , plese try again",
@@ -31,7 +30,6 @@ module.exports.movieDetails =  (req , res) => {
             movie
         })
     } catch (error) {
-        console.log(error , "errr")
         return  res.status(404).json({
               success : false,
               message : "Unable to get movie details",
