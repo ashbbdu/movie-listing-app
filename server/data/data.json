@@ -1,6 +1,6 @@
 [
   {
-    "id" : 1,
+    "id": 1,
     "Title": "The Shawshank Redemption",
     "Year": "1994",
     "Rated": "R",
@@ -32,7 +32,7 @@
     "Response": "True"
   },
   {
-    "id" : 2,
+    "id": 2,
     "Title": "The Godfather",
     "Year": "1972",
     "Rated": "R",
@@ -64,7 +64,7 @@
     "Response": "True"
   },
   {
-    "id" : 3,
+    "id": 3,
     "Title": "The Dark Knight",
     "Year": "2008",
     "Rated": "PG-13",
@@ -96,7 +96,7 @@
     "Response": "True"
   },
   {
-    "id" : 4,
+    "id": 4,
     "Title": "The Godfather: Part II",
     "Year": "1974",
     "Rated": "R",
@@ -128,7 +128,7 @@
     "Response": "True"
   },
   {
-    "id" : 5,
+    "id": 5,
     "Title": "12 Angry Men",
     "Year": "1957",
     "Rated": "Approved",
@@ -160,7 +160,7 @@
     "Response": "True"
   },
   {
-    "id" : 6,
+    "id": 6,
     "Title": "Schindler's List",
     "Year": "1993",
     "Rated": "R",
@@ -192,7 +192,7 @@
     "Response": "True"
   },
   {
-    "id" : 7,
+    "id": 7,
     "Title": "The Lord of the Rings: The Return of the King",
     "Year": "2003",
     "Rated": "PG-13",
@@ -224,7 +224,7 @@
     "Response": "True"
   },
   {
-    "id" : 8,
+    "id": 8,
     "Title": "Pulp Fiction",
     "Year": "1994",
     "Rated": "R",
@@ -256,7 +256,7 @@
     "Response": "True"
   },
   {
-    "id" : 9,
+    "id": 9,
     "Title": "The Lord of the Rings: The Fellowship of the Ring",
     "Year": "2001",
     "Rated": "PG-13",
@@ -288,7 +288,7 @@
     "Response": "True"
   },
   {
-    "id" : 10,
+    "id": 10,
     "Title": "The Good, the Bad and the Ugly",
     "Year": "1966",
     "Rated": "R",
@@ -320,7 +320,7 @@
     "Response": "True"
   },
   {
-    "id" : 11,
+    "id": 11,
     "Title": "Forrest Gump",
     "Year": "1994",
     "Rated": "PG-13",
@@ -352,7 +352,7 @@
     "Response": "True"
   },
   {
-    "id" : 12,
+    "id": 12,
     "Title": "Fight Club",
     "Year": "1999",
     "Rated": "R",
@@ -384,7 +384,7 @@
     "Response": "True"
   },
   {
-    "id" : 13,
+    "id": 13,
     "Title": "Inception",
     "Year": "2010",
     "Rated": "PG-13",
@@ -416,7 +416,7 @@
     "Response": "True"
   },
   {
-    "id" : 14,
+    "id": 14,
     "Title": "The Lord of the Rings: The Two Towers",
     "Year": "2002",
     "Rated": "PG-13",
@@ -448,7 +448,7 @@
     "Response": "True"
   },
   {
-    "id" : 15,
+    "id": 15,
     "Title": "Star Wars: Episode V - The Empire Strikes Back",
     "Year": "1980",
     "Rated": "PG",
@@ -480,7 +480,7 @@
     "Response": "True"
   },
   {
-    "id" : 16,
+    "id": 16,
     "Title": "The Matrix",
     "Year": "1999",
     "Rated": "R",
@@ -512,7 +512,7 @@
     "Response": "True"
   },
   {
-    "id" : 17,
+    "id": 17,
     "Title": "Goodfellas",
     "Year": "1990",
     "Rated": "R",
@@ -544,7 +544,7 @@
     "Response": "True"
   },
   {
-    "id" : 18,
+    "id": 18,
     "Title": "One Flew Over the Cuckoo's Nest",
     "Year": "1975",
     "Rated": "R",
@@ -576,7 +576,7 @@
     "Response": "True"
   },
   {
-    "id" : 19,
+    "id": 19,
     "Title": "Se7en",
     "Year": "1995",
     "Rated": "R",
@@ -608,38 +608,38 @@
     "Response": "True"
   },
   {
-    "id" : 20,
-    "Title": "Seven Samurai",
-    "Year": "1954",
-    "Rated": "Not Rated",
-    "Released": "19 Nov 1956",
-    "Runtime": "207 min",
-    "Genre": "Action, Drama",
-    "Director": "Akira Kurosawa",
-    "Writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
-    "Actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima",
-    "Plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
-    "Language": "Japanese",
-    "Country": "Japan",
-    "Awards": "Nominated for 2 Oscars. 5 wins & 8 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Dec 2013",
+    "Runtime": "180 min",
+    "Genre": "Biography, Comedy, Crime",
+    "Director": "Martin Scorsese",
+    "Writer": "Terence Winter, Jordan Belfort",
+    "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+    "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "Language": "English, French",
+    "Country": "United States",
+    "Awards": "Nominated for 5 Oscars. 37 wins & 179 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
     "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "8.6/10" },
-      { "Source": "Metacritic", "Value": "98/100" }
+      { "Source": "Internet Movie Database", "Value": "8.2/10" },
+      { "Source": "Rotten Tomatoes", "Value": "79%" },
+      { "Source": "Metacritic", "Value": "75/100" }
     ],
-    "Metascore": "98",
-    "imdbRating": "8.6",
-    "imdbVotes": "337,182",
-    "imdbID": "tt0047478",
+    "Metascore": "75",
+    "imdbRating": "8.2",
+    "imdbVotes": "1,327,178",
+    "imdbID": "tt0993846",
     "Type": "movie",
-    "DVD": "05 Sep 2006",
-    "BoxOffice": "$318,649",
+    "DVD": "25 Mar 2014",
+    "BoxOffice": "$116,900,694",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
   },
   {
-    "id" : 21,
+    "id": 21,
     "Title": "It's a Wonderful Life",
     "Year": "1946",
     "Rated": "PG",
@@ -671,7 +671,7 @@
     "Response": "True"
   },
   {
-    "id" : 22,
+    "id": 22,
     "Title": "The Silence of the Lambs",
     "Year": "1991",
     "Rated": "R",
