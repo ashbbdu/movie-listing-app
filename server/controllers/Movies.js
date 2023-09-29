@@ -27,6 +27,7 @@ module.exports.movieDetails =  (req , res) => {
         let movie =  movieData.filter(el => el.id == id )
         return res.status(200).json({
             success :true,
+            message : "Movie Details Fetched Successfully",
             movie
         })
     } catch (error) {
