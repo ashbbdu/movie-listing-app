@@ -9,9 +9,13 @@ useEffect(() => {
 } ,[])
 
 const getMovies = async () => {
+   try {
     const response = await fetch("http://localhost:4000/api/v1/movie-list");
     const data = await response.json()
     setMovieData(data.data)
+   } catch (error) {
+    console.log(error)
+   }
 }
 
   return (
