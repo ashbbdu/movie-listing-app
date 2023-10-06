@@ -13,7 +13,7 @@ const MovieDetails = () => {
   const movieDetails = async () => {
     try {
       const response = await fetch(
-        `http://localhost:4000/api/v1/movieDetails/${id}`
+        `https://be-movielisting.onrender.com/api/v1/movieDetails/${id}`
       );
       const data = await response.json();
       setData(data?.movie[0]);

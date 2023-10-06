@@ -10,7 +10,7 @@ useEffect(() => {
 
 const getMovies = async () => {
    try {
-    const response = await fetch("http://localhost:4000/api/v1/movie-list");
+    const response = await fetch("https://be-movielisting.onrender.com/api/v1/movie-list");
     const data = await response.json()
     setMovieData(data.data)
    } catch (error) {
